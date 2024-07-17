@@ -6,7 +6,9 @@ To run the program, execute check_images.py in a terminal, providing up to three
 Command Line Arguments:
 
 Image Folder: Use --dir with a default value of 'pet_images'.
+
 CNN Model Architecture: Use --arch with a default value of 'vgg' (options: 'vgg', 'alexnet', 'resnet').
+
 Dog Names File: Use --dogfile with a default value of 'dognames.txt'.
 
 To run all three models, you can use the provided bash scripts:
